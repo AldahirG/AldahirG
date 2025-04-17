@@ -1,30 +1,33 @@
-<h1 align="center">Hi, I'm Aldahir <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Aldahir 👋</h1>
 
 <p align="center">
-  👨‍💻 Full Stack Developer passionate about building impactful digital solutions. <br>
-  💡 I love crafting modern web applications, scalable APIs, and efficient systems. <br>
-  💬 Always open to collaboration and exciting new projects!
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" width="100%" alt="Header">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aldahir-gomez-garcia-63463928b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/aldogbs.01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:aldahir.gomez.g.98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%">
+
+🎯 I'm a Full Stack Developer who loves building things that work and look great!
+
+- 💼 Currently working on: **SICEL** & **SISI**
+- 📚 Actively learning: **Microservices**, **AWS**, and **clean architecture**
+- 🤝 Open to collaborate on impactful full-stack apps
+- 💬 Ask me about **Vue, Angular, Node.js, Java, SQL, API design**
+- 📫 Reach me at: **aldahir.gomez.g.98@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aldahir-gomez-garcia-63463928b/) · [Instagram](https://www.instagram.com/aldogbs.01/)
+- ⚡ Fun fact: I can code faster than my playlist can change songs 🎶
+
+  </td>
+  <td width="40%" align="center">
+    <img src="https://github.com/https-sharif/https-sharif/blob/main/CatCode.gif" width="280px"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  💻 🖥️ 👨‍💻 ☁️ 📱 🧠 🚀 ⚙️ 🔧 💾 🔐
-</p>
+## 🛠️ My Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
@@ -38,8 +41,6 @@
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -53,35 +54,25 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Featured Projects
 
-| 🚀 Project | 📝 Description |
-| ------- | ----------- |
-| **[SICEL](https://github.com/AldahirG/sicel)** | Integrated System for Lead Control and Efficiency |
-| **[SISI](https://github.com/AldahirG/sisi)** | Internal Request System for administrative process automation |
-| **[QrAPP](https://github.com/AldahirG/qrapp)** | QR-based event registration app for UNINTER |
-| **[CRMS](https://github.com/AldahirG/crms)** | Custom CRM platform built for UNINTER university |
+| Project | Description |
+| ------ | ----------- |
+| **[SICEL](https://github.com/AldahirG/sicel)** | 📊 System for Lead Control & Efficiency |
+| **[SISI](https://github.com/AldahirG/sisi)** | 📑 Internal Request Management System |
+| **[QrAPP](https://github.com/AldahirG/qrapp)** | 📱 Event registration via QR for UNINTER |
+| **[CRMS](https://github.com/AldahirG/crms)** | 📂 Custom CRM for UNINTER University |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-| [![AldahirG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldahirG&show_icons=true&theme=tokyonight)](https://github.com/AldahirG) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldahirG&layout=compact&theme=tokyonight)](https://github.com/AldahirG) |
+| ![AldahirG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldahirG&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldahirG&layout=compact&theme=tokyonight) |
 | --- | --- |
 
 ---
 
-## ⚙️ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🔧 Implementing new modules in SICEL
-2. 🛠️ Improving role-based access in SISI
-3. 🚀 Working on responsive UI for CRMS
-<!--END_SECTION:activity-->
-
----
-
-## 🐍 Contributions Timeline
+## 🐍 Contribution Snake
 
 ```text
-🐍 → Watch my contribution graph get eaten by a snake!
+🐍 Watch the snake eat my contributions below 🐍
