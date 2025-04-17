@@ -11,7 +11,7 @@
 🎯 I'm a Full Stack Developer who loves building things that work and look great!
 
 - 💼 Currently working on: **SICEL** & **SISI**
-- 📚 Actively learning: **Microservices**, **AWS**, and **clean architecture**
+- 📚 Actively learning: **Microservices**, **AWS**, and **Clean Architecture**
 - 🤝 Open to collaborate on impactful full-stack apps
 - 💬 Ask me about **Vue, Angular, Node.js, Java, SQL, API design**
 - 📫 Reach me at: **aldahir.gomez.g.98@gmail.com**
@@ -51,6 +51,33 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/APIs%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
+---
+
+## 🧩 Design & UX Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX/UI%20Design-000000?style=for-the-badge&logo=ux&logoColor=white"/>
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Universidad Tecnológica Emiliano Zapata (UTEZ)**
+  - Degree: Ingeniería en Desarrollo y Gestión de Software
+- 📜 **Spring Boot Advanced** - Domestika
+- 📜 **Introduction to AWS Cloud** - AWS Training
+- 📜 **Diseño UX/UI en Figma** – Currently in progress
+
+---
+
+## 🎧 My Spotify Playlist
+
+[![Spotify Playlist](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6g15N551cWxa8Ayo6F4XqS?si=a7710547518a4c53)
+
+> 🎵 This is what I code to. Enjoy the vibe.
 
 ---
 
